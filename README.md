@@ -1,2 +1,2 @@
-# chrome_extensions_sample
+# Coulson
 Chrome扩展实验
